@@ -1,5 +1,5 @@
 # Nexus
-A Customer Relationship Management (CRM) platform** helps companies organize customer data, track leads, and manage sales processes and sales teams efficiently.
+A Customer Relationship Management (CRM) platform helps companies organize customer data, track leads, and manage sales processes and sales teams efficiently.
 
 It addresses issues such as data loss, poor follow-up, and the lack of accurate reporting through a dashboard that includes reports, notifications, and role-based access control.
 
