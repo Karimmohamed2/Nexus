@@ -1,7 +1,4 @@
 # Nexus
-A Customer Relationship Management (CRM) platform helps companies organize customer data, track leads, and manage sales processes and sales teams efficiently.
+SmartCare is a comprehensive web-based healthcare booking system designed to bridge the gap between patients, doctors, and pharmacies. The platform enables patients to book appointments with doctors, manage their medical records, and order medicines online – all in one place.
 
-It addresses issues such as data loss, poor follow-up, and the lack of accurate reporting through a dashboard that includes reports, notifications, and role-based access control.
-
-It targets small and medium-sized businesses (SMBs) and sales teams, aiming to increase conversion rates, improve decision-making, and enhance employee performance.
-
+Built with ASP.NET Core MVC and SQL Server, SmartCare follows a modular architecture with clean separation of concerns, ensuring maintainability, scalability, and security.
